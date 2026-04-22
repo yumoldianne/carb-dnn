@@ -1,4 +1,4 @@
-# Learning Architectural Simplicity Through Multi-Path Routing: Context-Aware Residual Blocks for Deep Neural Networks
+# 📐 Learning Architectural Simplicity Through Multi-Path Routing: Context-Aware Residual Blocks for Deep Neural Networks
 
 This paper proposes Context-Aware Residual Blocks (CARB), a novel architectural component that combines multi-path processing with learned dynamic routing based on input statistics and training state. Unlike standard residual networks that use fixed skip connections, CARB maintains three parallel computational paths—identity, linear, and non-linear transformations of varying depths—and dynamically weights their contributions through a learned context network. 
 
